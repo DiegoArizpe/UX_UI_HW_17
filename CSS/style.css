@@ -11,6 +11,7 @@ body {
     text-align: center;
 }
 nav {
+    font-size: large;
     width: 65%;
     padding: 1%;
 }
